@@ -16,3 +16,13 @@ Be Welcomed to Meet Me!
 </div>
 
 <br>
+
+### Interact With Me!
+
+- 📫 How to reach me: [Send me a message](#) or [Visit my website](#)
+- 💬 Ask me about: [Your Preferred Topic]
+- ⚡ Fun fact: [Share an interesting fact about yourself]
+
+Feel free to explore my repositories, and don't hesitate to reach out. I'm always open to collaboration and discussions!
+
+[![HitCount](http://hits.dwyl.com/antunes478/antunes478.svg)](http://hits.dwyl.com/antunes478/antunes478)
