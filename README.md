@@ -24,9 +24,5 @@ Be Welcomed to Meet Me!
   - Phone: +937 363 715
   - Instagram: [jean.pierre.da.costa.antunes](https://www.instagram.com/jean.pierre.da.costa.antunes/)
 
-- 💬 Ask me about: [Your Preferred Topic]
-- ⚡ Fun fact: [Share an interesting fact about yourself]
 
-Feel free to explore my repositories, and don't hesitate to reach out. I'm always open to collaboration and discussions!
 
-[![HitCount](http://hits.dwyl.com/antunes478/antunes478.svg)](http://hits.dwyl.com/antunes478/antunes478)
