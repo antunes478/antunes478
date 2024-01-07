@@ -19,7 +19,11 @@ Be Welcomed to Meet Me!
 
 ### Interact With Me!
 
-- 📫 How to reach me: [Send me a message](#) or [Visit my website](#)
+- 📫 How to reach me:
+  - Email: [portuga0462016@gmail.com](mailto:portuga0462016@gmail.com)
+  - Phone: +937 363 715
+  - Instagram: [jean.pierre.da.costa.antunes](https://www.instagram.com/jean.pierre.da.costa.antunes/)
+
 - 💬 Ask me about: [Your Preferred Topic]
 - ⚡ Fun fact: [Share an interesting fact about yourself]
 
